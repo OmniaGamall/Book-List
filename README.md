@@ -6,4 +6,4 @@ This project is a simple and elegant solution for managing your personal book co
 1. Add Books: Input book name click on "Add Book" button.
 2. finished Books: click on "Done" button for removing books you've finished or no longer wish to track.
    
-Feel free to explore the code, contribute, or use it as a foundation for your own projects. Happy reading!
+Feel free to explore the code, contribute, or use it as a foundation for your own projects.
