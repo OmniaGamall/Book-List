@@ -1,0 +1,62 @@
+body {
+      font-family: 'outfit';
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+  }
+  
+  .container {
+      background-color: #FFE5E5;
+      padding: 230px;
+      border-radius: 20px;
+      box-shadow: 0 0 10px rgba(187, 91, 160, 0.5);
+  }
+  
+  h1 {
+      text-align: center;
+      color: #756AB6;
+  }
+  
+  #tasks {
+      margin-top: 70px;
+  }
+  
+  input[type="text"] {
+      padding: 7px;
+      width: 60%;
+      border: 1px solid #ffffff;
+      border-radius: 4px;
+  }
+  
+  button {
+      padding: 8px;
+      border: none;
+      cursor: pointer;
+      background-color: #AC87C5;
+      color: #fff;
+      border-radius: 4px;
+  }
+  
+  ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  
+  li {
+      background-color: #eee;
+      margin: 5px 0;
+      padding: 8px;
+      border-radius: 4px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  
+  .completed {
+      text-decoration: line-through;
+      color: #150e0e;
+  }
